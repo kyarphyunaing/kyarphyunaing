@@ -1,4 +1,4 @@
-### Hi, I am Kyar Phyu Naing. 👋
+### Hi, I am [Kyar Phyu Naing](https://kpprofile.herokuapp.com/). 👋
 <a href="https://www.linkedin.com/in/ma-kyar-phyu-naing-9892a676/">
   <img align="left" alt="KyarPhyu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
