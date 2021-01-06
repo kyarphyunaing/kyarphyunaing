@@ -11,12 +11,11 @@
 
 <br/>
 <br/>
-<!--
-**kyarphyunaing/kyarphyunaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on Startin Point Pte Ltd Singapore & Myanmar.
 - 🌱 I’m currently learning more about Flutter.
-- 💬 Ask me about Java, Flutter any tech related stuff.
+- 💬 Ask me about Java, Flutter or any tech related stuff.
 
 **Languages and Tools:**  
 
