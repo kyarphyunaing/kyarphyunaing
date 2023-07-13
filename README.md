@@ -13,7 +13,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Startin Point Pte Ltd Singapore & Myanmar.
+- 🔭 I’m currently working on one of Singapore Tech Company.
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Java, Flutter or any tech related stuff.
 
